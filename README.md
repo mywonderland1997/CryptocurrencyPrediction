@@ -97,3 +97,4 @@ _Linear Regression_
 
 ## Update
 Regularization has been done, which can be viewed in PlotRegularization.ipynb.
+thanks buddy
